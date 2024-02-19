@@ -1,9 +1,7 @@
-import React from 'react';
-
-export default function Home() {
+export default function Services() {
     return (
         <div>
-            <h1>Welcome to Our Church</h1>
+            <h1>Our Services</h1>
             <p>Explore our sermons, ministries, events, and more!</p>
 
         </div>
